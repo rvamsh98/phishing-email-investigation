@@ -256,7 +256,3 @@ Vamshi Ramavath
 
 Cybersecurity Analyst | SOC Analyst Candidate
 
-
-Vamshi Ramavath
-
-Cybersecurity Analyst | SOC Analyst Candidate
