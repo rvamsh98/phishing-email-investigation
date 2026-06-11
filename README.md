@@ -1,5 +1,5 @@
 # phishing-email-investigation
-# Office 365 Credential Harvesting Phishing Investigation
+# Live phishing investigation involving email header analysis, IOC extraction, Exchange authentication analysis, MITRE ATT&CK T1566.001 mapping, and incident response documentation.
 
 
 ## Executive Summary
