@@ -293,7 +293,5 @@ The University of New Haven Information Technology Department later identified t
 
 **Vamshi Ramavath**
 
-Cybersecurity Analyst | SOC Analyst Candidate
-
 GitHub: https://github.com/rvamsh98
 
