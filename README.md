@@ -70,7 +70,7 @@ The phishing email claimed that the recipient's Office 365 account required veri
 
 ### Evidence
 
-![Phishing Email](Screenshots/phishing-email.png)
+![Phishing Email](Screenshots/phishing-email..png)
 
 ---
 
